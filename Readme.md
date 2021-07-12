@@ -14,8 +14,8 @@ Bot always trade with full account funds.
 ## Install
 
 ```bash
-    $ git clone https://github.com/codemasterboom/kunaio-bot.git ./bot
-    $ cd ./bot
+    $ git clone https://github.com/codemasterboom/kunaio-bot.git ./kunaio-bot
+    $ cd ./kunaio-bot
     $ composer install
     $ cp ./config/config.yml.dist ./config/config.yml
 ```
